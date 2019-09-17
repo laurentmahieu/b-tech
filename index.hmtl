@@ -1,0 +1,258 @@
+<html>
+    <head>
+        <title>Notre Programme - Btech-Lille - découverte Initation Formation au développement et programmation informatique - EuraTechnologies Lille</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+        <link type="text/css" rel="stylesheet" href="css/style.css"  media="screen,projection"/>
+		<link type="text/css" rel="stylesheet" href="css/aos.css"/>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <meta name="description" content="Les cyber-espaces de la Ville de Lille et Euratechnologies vous permettent de suivre gratuitement une formation HTML5 et CSS3 afin d'acquérir les bases pour créer un site web - Btech " />
+		<meta name="keywords" content="Btech Lille, formation HTMl5 CSS3 Lille, Euratechnologies Formation, HTML5 Lille, CSS3 formation Lille, Learning District" />
+		<META NAME="ROBOTS" CONTENT="INDEX,FOLLOW">
+    </head>
+    <body>
+        <header class="v-header container">
+            <div class="fullscreen-video-wrap">
+        <!--  https://www.videvo.net/video/typing-on-computer-white-bg/4475/ -->
+            <!-- DO NOT USE THIS VIDEO, I JUST NEEDED A HOSTED VIDEO FOR THIS CODEPEN> USE THE ONE ABOVE -->
+            <video autoplay loop>
+				<source src="img/bg.mp4" type="video/mp4" />
+				<source src="img/bg.webm" type="video/webm"/>
+				<source src="img/bg.ogv" type="video/ogg"/>                
+            </video>
+            </div>
+            <div class="header-overlay"></div>
+            <div class="header-content text-md-center">
+                <img class="responsive-img" src="img/logotrans.svg">
+                <p class="col m5">Vous avez entre 18 et 30 ans et vous êtes demandeur d'emploi?
+                        Le Web et la filière numérique vous intéresse?
+                        Le programme Btech est fait pour vous.</p>
+                <a href="#presentation"><div class="box">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div></a>
+            </div>
+        </header>
+        <div id="presentation">
+		 <!-- NAV -->
+            <nav role="navigation">
+            <div class="nav-wrapper">
+                <a id="logo-container" href="#"> <img src="img/logoblack.png" alt="logo"/></a>
+                
+                <ul class="right hide-on-med-and-down">
+                    <li><a href="#presentation">Présentation</a></li>
+                </ul>
+                
+                <ul class="right hide-on-med-and-down">
+                    <li><a href="#programme">Programme</a></li>
+                </ul>
+
+                <ul class="right hide-on-med-and-down">
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+
+                
+                <ul id="nav-mobile" class="sidenav">
+                    <img src="img/logoblack.png" alt="logo"/>
+                    <li><a href="#presentation">Présentation</a></li>
+                    <li><a href="#programme">Programme</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+
+                <a href="#" data-target="nav-mobile" class="sidenav-trigger">
+                <i class="material-icons">menu</i></a>
+            </div>
+        </nav>
+			<!-- Pressentation -->
+            <div id="presentationtxt">
+                <div class="row">
+                    <div class="txt1 col s12 l6" data-aos="fade-right">
+                        <h5>Objectif</h5>
+                        <p>L’objectif de ce programme est de mobiliser les jeunes lillois demandeurs d’emplois pour leur faire connaître les métiers de la filière et susciter l’envie de s’engager dans ce secteur. Il ne s’agit en aucun cas d’une formation diplômante avec emploi à la clef. Il s’agit plutôt d’un cycle de découverte visant à accompagner les jeunes dans la définition d’un projet personnel et professionnel.</p>
+                    </div>
+                    <div class="img1 col s12 l6 " >
+                        <img src="img/btech1.jpg" alt="">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="img2 col s12 l6">
+                        <img  src="img/code.jpeg" alt="">
+                    </div>       
+                    <div class="txt2 col s12 l6" data-aos="fade-left">
+                        <h5>A qui s'adresse ce programme?</h5>
+                        <p>Il peut s’agir de jeunes peu ou pas diplômés mais ultra motivés par les nouvelles technologies. Les jeunes diplômés de type BAC+2 à +5 en recherche d’emploi ou cherchant à se réorienter sont également visés ainsi que les jeunes qui envisageraient de créer leur activité professionnelle.</p>
+                    </div>            
+                </div>
+				<div id="session">
+                    <div class="row">
+                        <div class="txt1 col s12 l6" data-aos="fade-right">
+                            <h5>Prochaine session</h5>
+                            <p>La prochaine session aura lieu du</p><p><strong>23 avril au 18 juin 2019</strong></p>
+                            <p>Réunion d'information le vendredi 5 avril 2019 à EuraTechnologies</p>
+                        </div>
+                        <div class="img3 col s12 l6" style="margin-top:-30px" >
+                            <img src="img/equipe.jpg" alt="">
+                        </div>            
+                    </div>            
+                </div>
+        </div>
+		<div id="programme">
+            <div class="container">
+                <div class="row"></div>
+                <div class="row"></div>
+                <div class="row"></div>
+                <strong><h3>Programme</h3></strong>
+                <div class="row"></div>
+                <div class="row"></div>
+                <div class="row"></div>
+                 <div class="row">
+                    <div class="col s12 m6 l4">
+                        <strong><h5>Initiation au coding</h5></strong>
+                        <i class="fas fa-code fa-4x"></i>
+                        <p>Apprendre les bases du <strong><br>HTML5 et CSS3</strong></p>
+                    </div>
+                    <div class="col s12 m6 l4">
+                        <strong><h5>Création de site web</h5></strong>
+                        <i class="fas fa-wrench fa-4x"></i>
+                        <p>Développer et intégrer <br><strong>un savoir-faire</strong></p>
+                        
+                    </div>
+                    <div class="col s12 l4">
+                        <strong><h5>Aller plus loin</h5></strong>
+                        <i class="fas fa-puzzle-piece fa-4x"></i>
+                        <p>Découverte de <br><strong>FrameWorks</strong></p>
+                    </div>
+                 </div>
+                 <div class="row">
+                    <div class="col s12 m6 l4">
+                        <strong><h5>Projet web</h5></strong>
+                        <i class="fas fa-users fa-4x"></i>
+                        <p>Créer ou approfondir <br><strong>son CV Web ou un projet</strong></p>
+                    
+                    </div>
+                    
+                    <div class="col s12 m6 l4">
+                        <strong><h5>Métiers du web</h5></strong>
+                        <i class="fas fa-laptop fa-4x"></i>
+                        <p>Découvrir <strong>les différents emplois</strong> <br>en relation avec le numérique</p>
+                    
+                    </div>
+                    
+                    <div class="col s12 l4">
+                        <strong><h5>Recherche formation</h5></strong>
+                        <i class="fas fa-bullseye fa-4x"></i>
+                        <p>Découvrir <strong>des formations</strong><br> en relation avec le Web</p>
+                    
+                    </div>
+                 </div>
+            </div>
+        </div>
+		
+                <div class="row"></div>
+                <div class="row"></div>
+				
+                  
+		<div class="imgpano">
+			<img class="responsive-img" src="img/pano.jpg"/>
+		</div>
+		<div id="contact">
+                <div class="row"></div>
+                <div class="row"></div>
+                <div class="row"></div>
+				<div class="container row"> 
+				<div class="blanc">
+					<div class="col s12 l6">
+						<div class="txt">
+							<h5 class="left-align">Nous Contacter</h5>
+							<p>Learning District EuraTechnologies</br>
+								165 Avenue de Bretagne</br>
+								59000 LILLE</br>
+							   cyber[a]euratechnologies.com</br>
+						</div>
+						<div class="facebook"><a href="https://www.facebook.com/EuraTechnologies/"><i class="fab fa-facebook-square fa-3x"></i></a></div>
+						<div class="instagram"><a href="https://www.instagram.com/euratechnologies/"><i class="fab fa-instagram fa-3x"></i></a></div>
+					</div>
+					<div class="barre"></div>
+					<div class="col s12 l6">
+						
+						<h5 class="center-align">Nous Trouver</h5>
+						<div class="map responsive-img">
+							<iframe
+								src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2530.6988291253097!2d3.0191269152802254!3d50.63271137950092!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2d55c6c0a46f3%3A0xe3665da1463413d7!2s165+Avenue+de+Bretagne%2C+59000+Lille!5e0!3m2!1sfr!2sfr!4v1526653989624"
+								width="100%" height="20%" frameborder="0" style="border:0" allowfullscreen>
+							</iframe>
+						</div>	
+					</div>
+				</div>
+				</div>
+				<div class="row"></div>
+                <div class="row"></div>
+                <div class="row"></div>
+            <div class="row">
+                <div class="container">
+                    <a class="waves-effect waves-light modal-trigger" href="#modal1">Les survivants de B.tech - Session 22</a>
+    
+                    <!-- Modal Structure -->
+                    <div id="modal1" class="modal modal-fixed-footer">
+                      <div class="modal-content ">
+                        <h4>Présentation de l'équipe</h4>
+                        <div class="equipe">
+                            <div class="col s12 xl4">
+                                <img src="img/presentation/fadil.jpg" alt="">
+                                <h5>Bahouala Fadil</h5>
+                                <p>Interessé par le code, BTech m'a permis d'apprendre les bases en HTML, CSS et Webdesign en quelques semaines dans une bonne ambiance de groupe.</p>
+                            </div>
+                        </div>
+                        <div class="equipe">
+                            <div class="col s12 xl4">
+                                <img src="img/presentation/laurent.jpg" alt="">
+                                <h5>Mahieu Laurent</h5>
+                                <p>Completement novice dans le domaine du code, grâce à mathieu j'ai non seulement appris enormement en création de site web, mais aussi à me créer un réseau et à apprendre plus vite, le tout dans une super ambiance.</p>
+                            </div>
+                        </div>
+                        <div class="equipe">
+                            <div class="col s12 xl4">
+                                <img src="img/presentation/matheo.png" alt="">
+                                <h5>Boumbas Mathéo</h5>
+                                <p>Yo moi c'est Mathéo, j'étais débutant dans le code mais grâce à notre moniteur Mathieu j'ai compris les bases de L'HTML et du framework sur cette session Btech 22 j'etais le graphiste. </p>
+                            </div>
+                        </div>
+                        <div class="equipe">
+                            <div class="col s12 xl4">
+                                <img src="img/presentation/steven.jpg" alt="">
+                                <h5>Giuliani Steven</h5>
+                                <p>En arrivant à la formation avec seulement quelques connaissances, j'ai pu approfondir mon savoir-faire dans le domaine du coding en backend et un peu en front. Maintenant je suis capable de faire un site web.</p>
+                            </div>
+                        </div>
+                        <div class="equipe">
+                            <div class="col s12 xl4">
+                                <img src="img/presentation/b-tech.png" alt="">
+                                <p>Initiation au coding. La promo 22 du stage d’initiation B.TECH à démarrer le 23 avril 2019	et a durée neuf semaines à raison de deux jours par semaine, composé de treize personnes au commencement.</p>
+                            </div>
+                        </div>
+                      </div>
+                      <div class="modal-footer">
+                        <a href="#!" class="modal-close waves-effect waves-green btn-flat">Close</a>
+                      </div>
+                    </div>
+                </div>
+            </div>
+       </div>
+
+        <!--JavaScript at end of body for optimized loading-->
+        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <script type="text/javascript" src="js/materialize.min.js"></script>
+        <script src="js/init.js"></script>
+        <script src="js/aos.js"></script>
+		<script type="text/javascript">
+			AOS.init({
+				duration:2000,
+			});
+		</script>
+    </body>
+</html>
